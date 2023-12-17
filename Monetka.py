@@ -6,7 +6,9 @@ tprint("Welcome", "rnd-xlarge")
 
 
 def monetka() -> str:
-    Orel = """                   ooo OOO OOO ooo
+    print("Подкидываю монетку")
+    Orel = """
+                  ooo OOO OOO ooo
                oOO                 OOo
            oOO                         OOo
         oOO                               OOo
